@@ -34,7 +34,7 @@ This repository contains the backend implementation.
 ## Setup
 
 
-#### b. Run the Application
+#### a. Run the Application
 
 Using `docker-compose`:
 
@@ -42,7 +42,7 @@ Using `docker-compose`:
 docker-compose up
 ```
 
-#### c. Stop the Application
+#### b. Stop the Application
 
 ```bash
 docker-compose down
@@ -71,11 +71,14 @@ go run .
 
 ## Configuration
 
-- Update environment variables in the `.env` file for custom settings.
+- Update environment variables in the `.env` file for custom settings. Sample env file available for reference `.env.sample`
 
 
 
 ## Contact
 
-For questions or feedback, feel free to reach out. subhadip Pahari ( Mobile : 657 319 5550 and email: subhadip.apply@gmail.com )
+For questions or feedback, feel free to reach out. 
+- Name: Subhadip Pahari
+- Mobile : 657 319 5550 
+- email: subhadip.apply@gmail.com
 
